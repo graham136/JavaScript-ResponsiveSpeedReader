@@ -1,2 +1,2 @@
 # JavaScriptResponsiveSpeedReader
-JavaScript Responsive Speed Reader. Copy into php script.
+JavaScript Responsive Ui Speed Reader. Copy into php script.
